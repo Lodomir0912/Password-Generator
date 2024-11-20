@@ -18,6 +18,7 @@ python password-generator.py
 * 1 for weak
 * 2 for medium
 * 3 for strong
+
 If you choose a strong password, specify the length and whether you want special characters included.
 # Example Output
 ```python
