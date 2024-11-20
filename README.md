@@ -14,11 +14,11 @@ This is a simple Python-based password generator that offers three levels of pas
 ```bash
 python password-generator.py
 ```
-4. Choose the strength of the password:\n
-* 1 for weak\n
-* 2 for medium\n
-* 3 for strong\n
-* If you choose a strong password, specify the length and whether you want special characters included.
+4. Choose the strength of the password:
+* 1 for weak
+* 2 for medium
+* 3 for strong
+If you choose a strong password, specify the length and whether you want special characters included.
 # Example Output
 ```python
 Welcome to password generator!
